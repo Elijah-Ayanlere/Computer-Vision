@@ -9,7 +9,7 @@ Make sure you have the required libraries installed. You can install them using 
 
 **Usage**
 
-Run the script continuous_analysis.py.
+Run the script computer_vision.py.
 The script will open the default camera and start analyzing the surroundings.
 Image recognition results and metal substance detection will be displayed in real-time.
 Press the 'q' key to exit the program.
